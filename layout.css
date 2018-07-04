@@ -1,0 +1,33 @@
+*{
+margin:0;
+padding:0;
+}
+div#container{
+width:990px;
+margin:10px auto;
+
+}
+header {
+background-color: red;
+min-height:80px;
+}
+#column1{
+background-color:#009s;
+width:690px;
+float:right;
+min-height:300px;
+}
+#sidebar{
+background-color:#999;
+min-height: 350px;
+margin-right:600px;
+}
+#main{
+background-color:yellow;
+min-height:300px;
+}
+
+footer{
+background-color:#090;
+min-height:60px;
+}
